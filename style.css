@@ -1,0 +1,9 @@
+body{
+    background: black;   
+}
+*{
+    color: #fff;
+}
+#Update{
+    display: none;
+}
